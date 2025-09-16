@@ -3,5 +3,6 @@ Purpose: Circumvent hallucinations (producing false, misleading, or nonsensical 
 #  
 Usage: Attach "GPT5-LT-V0.2.docx" to each conversation under "Files", then type "START-GP5-LT-V0.2" at the top of each prompt. Use this to allow you to think when you are stuck, not to produce an answer. Tweak to your usage, as I have not began theorizing multipurpose applications.
 #  
-Exception: Developed for ChatGPT 5 thinking model, though acceptable answers have been found on ChatGPT's flagship free model.
+Exception: Developed for ChatGPT 5 thinking model, though acceptable answers have been found on ChatGPT's flagship free model.  
+
 Note: This is not genuine code, though a rejog of the programming languages I've once used. Oddly enough it appears to worsen the model, then benefit the outcome, future models will be adjusted. 
