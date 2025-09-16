@@ -5,4 +5,4 @@ Usage: Attach "GPT5-LT-V0.2.docx" to each conversation under "Files", then type 
 #  
 Exception: Developed for ChatGPT 5 thinking model, though acceptable answers have been found on ChatGPT's flagship free model.  
 
-Note: This is not genuine code, though a rejog of the programming languages I've once used. Oddly enough it appears to worsen the model, then benefit the outcome, future models will be adjusted. 
+Note: This is not genuine code, though a rejog of the programming languages I've once used. Oddly enough it appears to worsen the model, rather than benefit the outcome, future models will be adjusted. 
