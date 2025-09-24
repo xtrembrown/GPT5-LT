@@ -2,6 +2,7 @@
 Purpose: Circumvent hallucinations (producing false, misleading, or nonsensical information as if it were factual or true) prevalent in Generative Pre-trained Transformer models. 
 #  
 Usage V1: Type your question, or prompt; following type "Use core dependencies for my prompt". Then copy and paste the information in "GPT-LT-V0.2.docx", after the first two steps. Use this to allow you to think when you are stuck, not to produce an answer.
+
 Usage V2: Attach "GPT5-LT-V0.2.docx" to each conversation under "Files", then type "START-GP5-LT-V0.2" at the top of each prompt. Use this to allow you to think when you are stuck, not to produce an answer. Tweak to your usage, as I have not began theorizing multipurpose applications.
 #  
 Exception: Developed for ChatGPT 5 thinking model, though acceptable answers have been found on ChatGPT's flagship free model.  
