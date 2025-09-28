@@ -3,8 +3,6 @@ Purpose: Circumvent hallucinations (producing false, misleading, or nonsensical 
 #  
 Usage V1.0: Attach "GPT5_Less-Thinking_V1.0" to each conversation under "Files", reccomended with GPT5-Thinking model and disabling "Reference saved memories"; found in Settings -> Personalization -> Memory -> Reference Saved Memories. Use this to allow you to think, and produce sources on requested information, not to produce an answer. 
     - Under each conversation please state "[Expected Outcome]: One to four sentences of what you expect in a response, followed by what you do not want". Removing the quotation marks. 
-
-Usage V0.2: Attach "GPT5-LT-V0.2.docx" to each conversation under "Files", then type "START-GP5-LT-V0.2" at the top of each prompt. Use this to allow you to think when you are stuck, not to produce an answer. Tweak to your usage, as I have not began theorizing multipurpose applications.
 #  
 
 Exception: Developed for ChatGPT 5 thinking model, though acceptable answers have been found on ChatGPT's flagship free model.  
