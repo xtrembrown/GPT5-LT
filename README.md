@@ -4,7 +4,6 @@ Purpose: Circumvent hallucinations (producing false, misleading, or nonsensical 
 Usage V1.0: Attach "GPT5_Less-Thinking_V1.0" to each conversation under "Files", reccomended with GPT5-Thinking model and disabling "Reference saved memories"; found in Settings -> Personalization -> Memory -> Reference Saved Memories. Use this to allow you to think, and produce sources on requested information, not to produce an answer. 
     - Under each conversation please state "[Expected Outcome]: One to four sentences of what you expect in a response, followed by what you do not want". Removing the quotation marks. 
 #  
-
 Exception: Developed for ChatGPT 5 thinking model, though acceptable answers have been found on ChatGPT's flagship free model.  
 
 Note: Model V0.1 is considered much stable than V0.2. The updated model V1.0 is considered better than both, minor tweaks will be updated the following weeks, though appoears very stable. 
