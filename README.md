@@ -1,7 +1,7 @@
 # GPT5 Less Thinking
 **Purpose**: Circumvent hallucinations (producing false, misleading, or nonsensical information as if it were factual or true) prevalent in Generative Pre-trained Transformer Models. 
 #  
-**Usage V1.0**: Attach "GPT5_Less-Thinking_V1.0" to each conversation under "Files", reccomended with GPT5-Thinking model and disabling "Reference saved memories"; found in Settings -> Personalization -> Memory -> Reference Saved Memories. Use this to allow you to think, and produce sources on requested information, not to produce an answer. 
+**Usage V1.0**: Attach "GPT5_Less-Thinking_V1.0" to each conversation under "Files", reccomended with _ChatGPT 5 Thinking Model_ and disabling _Reference saved memories_; found in Settings -> Personalization -> Memory -> Reference Saved Memories. Use this to allow you to think, and produce sources on requested information, not to produce an answer. 
 
     - For each prompt please enter "[Expected Outcome]: One to four sentences of what you expect in a response, followed by what you do not want". Removing the quotation marks, and in your words.
 #  
