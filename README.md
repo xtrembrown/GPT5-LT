@@ -10,4 +10,4 @@
 
 **Note**: Model V0.1 is considered much stable than V0.2. The updated model V1.0 is considered better than both, minor tweaks will be updated the following weeks, though appoears very stable. 
 
-**Reccomended**: Watch this video by [_PyCon USA_]([url](https://www.youtube.com/watch?v=P1-KQZZarpc)), from the keynote speaker _Simon Willison_; for a explanation on how Generative Pre-trained Transformer Models operate, specifically Large Language Models (LLM). 
+**Reccomended**: Watch this video by [PyCon USA]([url](https://www.youtube.com/watch?v=P1-KQZZarpc)), from the keynote speaker _Simon Willison_; for a explanation on how Generative Pre-trained Transformer Models operate, specifically Large Language Models (LLM). 
